@@ -1,0 +1,28 @@
+.amg {
+  height: 30px; }
+
+.box {
+  margin-top: -300px;
+  margin-left: 730px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  animation-name: -_-;
+  animation-iteration-count: infinite !important;
+  animation-duration: 2s !important;
+  animation-direction: alternate !important; }
+
+@keyframes -_- {
+  0% {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; }
+  100% {
+    width: 200px !important;
+    height: 200px !important;
+    opacity: 0.3 !important;
+    border-radius: 50%; } }
+.col-10 {
+  box-shadow: 3px 6px 5px 0px rgba(0, 0, 0, 0.75); }
+
+/*# sourceMappingURL=style.css.map */
